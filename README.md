@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Kulbir Singh 👋
 
-<!--
-**Kulbir20/Kulbir20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MERN Stack Developer | Full Stack Web Developer  
+📍 Jalandhar,Punjab, India  
 
-Here are some ideas to get you started:
+💻 Skills:
+- React.js
+- Node.js
+- MongoDB
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Portfolio:
+https://kulbir-portfolio.vercel.app/
+
+📫 Contact:
+kulbir.hit@gmail.com
+
+✨ I build fast, responsive, and user-friendly web applications using modern technologies.
